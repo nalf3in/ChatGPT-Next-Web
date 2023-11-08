@@ -1,7 +1,9 @@
 <div align="center">
 <img src="./docs/images/icon.svg" alt="icon"/>
 
-<h1 align="center">ChatGPT Next Web</h1>
+<h1 align="center">Nalf3in's fork of ChatGPT Next Web</h1>
+
+Quick and dirty fork to adjust the defaults to my taste. Thanks again to yidadaa for this nice webapp
 
 English / [简体中文](./README_CN.md) / [日本語](./README_JA.md)
 
